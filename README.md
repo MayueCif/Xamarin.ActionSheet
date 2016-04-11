@@ -7,10 +7,6 @@ Xamarin.Android实现IOS UIActionSheet效果
 
 使用：
 
-设置样式支持IOS6和IOS7
-
-SetTheme (Resource.Style.ActionSheetStyleiOS7);
-
 创建ActionSheet对象
 
 var actionSheet = new ActionSheet ();
