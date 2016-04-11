@@ -24,7 +24,6 @@ namespace ActionSheetTest
 			Button button = FindViewById<Button> (Resource.Id.myButton);
 			
 			button.Click += delegate {
-				SetTheme (Resource.Style.ActionSheetStyleiOS7);
 				var actionSheet = new ActionSheet ();
 				actionSheet.Other_Button_Title = new List<string> (){ "按钮1", "按钮2" };
 				actionSheet.SetActionSheetListener (this);

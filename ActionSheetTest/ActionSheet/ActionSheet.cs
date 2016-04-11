@@ -68,8 +68,14 @@ namespace Xamarin.ActionSheet
 			if (savedInstanceState != null) {
 				dismissed = savedInstanceState.GetBoolean (EXTRA_DISMISSED);
 			}
+			Activity.SetTheme (Resource.Style.ActionSheetStyleiOS7);
 		}
 
+
+		public void SetThemeIOS6 ()
+		{
+			Activity.SetTheme (Resource.Style.ActionSheetStyleiOS6);
+		}
 
 		public void SetThemeIOS7 ()
 		{

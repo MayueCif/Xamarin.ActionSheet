@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sdk>
+  <AndroidApiLevel>23</AndroidApiLevel>
+  <AndroidApiLevelName>23</AndroidApiLevelName>
+  <AndroidNdkPath />
+  <AndroidSdkBuildToolsPath>/Users/Myue/Library/Android/sdk/build-tools/24.0.0-preview</AndroidSdkBuildToolsPath>
+  <AndroidSdkBuildToolsBinPath>/Users/Myue/Library/Android/sdk/build-tools/24.0.0-preview</AndroidSdkBuildToolsBinPath>
+  <AndroidSdkPath>/Users/Myue/Library/Android/sdk</AndroidSdkPath>
+  <JavaSdkPath>/usr</JavaSdkPath>
+  <MonoAndroidBinPath>/Library/Frameworks/Xamarin.Android.framework/Versions/Current/bin</MonoAndroidBinPath>
+  <MonoAndroidToolsPath>/Library/Frameworks/Xamarin.Android.framework/Versions/Current/lib/mandroid</MonoAndroidToolsPath>
+  <ReferenceAssemblyPaths>
+    <ReferenceAssemblyPath>/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0</ReferenceAssemblyPath>
+  </ReferenceAssemblyPaths>
+  <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
+  <ZipAlignPath>/Users/Myue/Library/Android/sdk/build-tools/24.0.0-preview</ZipAlignPath>
+  <MonoAndroidIncludePath />
+  <SupportedApiLevel>23</SupportedApiLevel>
+  <AndroidSequencePointsMode>None</AndroidSequencePointsMode>
+</Sdk>
